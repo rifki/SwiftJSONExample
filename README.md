@@ -1,4 +1,7 @@
-JSONSwiftExample
-================
+Simple Parse JSON using Swift
+===================================
 
-JSON Swift Example
+Example preview:
+
+![](https://raw.githubusercontent.com/rifki/SwiftJSONExample/master/Preview/screenshot.png)
+
